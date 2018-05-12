@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5176
     wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24762#Diggers-in-the-Earth
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-03-06'
 gutenberg_type: Text
